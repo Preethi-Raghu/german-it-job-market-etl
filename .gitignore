@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Datasets
+*.csv
+*.parquet
+*.pkl
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tempCodeRunnerFile*
